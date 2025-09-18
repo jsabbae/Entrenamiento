@@ -1,8 +1,10 @@
 // Ejercicio 1: Sumar todos los números de un array
 // const numeros = [5, 10, 15, 20];
-
-
-
+// let suma = 0;   /// Variable para acumular la suma
+// for (i = 0; i < numeros.length; i++) {
+//     suma += numeros[i]; /// suma = suma + numeros[i];
+// }
+// console.log(suma);
 
 
 // Ejercicio 2: Encontrar el número más grande
